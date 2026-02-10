@@ -70,3 +70,4 @@ $invoice_id = rand(1000, 9999);
                 foreach($_SESSION['cart'] as $item) {
 
                     $total_price = $item['price'] * $item['qty
+
