@@ -22,7 +22,7 @@ session_start();
         .navbar { background: white; box-shadow: 0 2px 5px rgba(0,0,0,0.05); padding: 15px 0; }
         .navbar-brand { font-weight: 700; font-size: 26px; color: #1e8b40 !important; }
         .nav-link { color: #333 !important; font-weight: 500; font-size: 15px; margin: 0 10px; }
-        .nav-link:hover { color: #1e8b40 !important; }
+        .nav-link:hover { color: #1e8b40 !important; } 
         .cart-icon { font-size: 20px; color: #1e8b40; position: relative; }
         .cart-badge { background: #ff9800; color: white; border-radius: 50%; padding: 2px 6px; font-size: 10px; position: absolute; top: -5px; right: -10px; font-weight: bold; }
 
@@ -129,6 +129,7 @@ session_start();
 </body>
 
 </html>
+
 
 
 
