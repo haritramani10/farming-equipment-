@@ -1,7 +1,7 @@
 <footer class="fs-footer">
     <div class="container">
         <div class="row">
-            <!-- Brand col -->
+            <!-- Brand col --> 
             <div class="col-md-4 mb-5">
                 <div class="footer-brand">FARM<span>SHOP</span></div>
                 <p class="footer-desc">India's leading Agri Digital Platform, transforming the agriculture value chain from pre-harvest to post-harvest leveraging science, data, and technology.</p>
