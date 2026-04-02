@@ -1,6 +1,6 @@
 <footer class="fs-footer">
     <div class="container">
-        <div class="row">
+        <div class="row"> 
             <!-- Brand col --> 
             <div class="col-md-4 mb-5">
                 <div class="footer-brand">FARM<span>SHOP</span></div>
